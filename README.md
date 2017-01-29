@@ -8,15 +8,15 @@ The available data includes KL divergence between the books, probability distrib
 
 In order to delve deeper in this rich dataset, I applied data analysis techniques learned in High-dimensional Statistical Analysis course which include- 
 
-Principal Component Analysis
+**Principal Component Analysis**
 
-Multidimensional Scaling
+**Multidimensional Scaling**
 
-Isomap
+**Isomap**
 
-K-means
+**K-means**
 
-Spectral Clustering
+**Spectral Clustering**
 
 I also used different proximity measures like Cosine Similarity, Euclidean Distance, JS Distance, KL-Divergence and Angle Dissimilarity. 
 
